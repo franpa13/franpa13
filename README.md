@@ -35,6 +35,9 @@
 
 
 ### Contatos: 
+<div display="flex">
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-paredes-354a2b26b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -47,6 +50,8 @@
     <span>Portfolio</span>
   </a>
 </p>
+  
+</div>
 
  ------
 
