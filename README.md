@@ -37,7 +37,7 @@
 ### Contatos: 
 <p align='left'>
    <a href="https://www.linkedin.com/in/francisco-paredes-354a2b26b/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
- <a href="https://github.com/franpa13" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:christian2020022014@gmail.com"></a>&nbsp;&nbsp;
+ <a href=""><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:franpa619@gmail.com"></a>&nbsp;&nbsp;
  </p>
 
  ------
