@@ -36,9 +36,9 @@
 <p align="center">
 <a href="https://fran-dev-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/-frandev.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/francisco-paredes-354a2b26b/"><img src="https://img.shields.io/badge/-Francisco%20Paredes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:franpa619@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/fran.paredess/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100011163993678"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:franpa619@gmail.com"><img src="https://img.shields.io/badge/-franpa619@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/fran.paredess/"><img src="https://img.shields.io/badge/-@fran.paredess-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100011163993678"><img src="https://img.shields.io/badge/-Francisco Paredes-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
 
