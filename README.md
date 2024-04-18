@@ -36,13 +36,13 @@
 
 ### Contatos: 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://www.linkedin.com/in/francisco-paredes-354a2b26b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
         <span>Linkedin</span>
   </a>
 </p>&nbsp;&nbsp;      
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://fran-dev-portfolio-two.vercel.app/)">
     <img src="https://skillicons.dev/icons?i=htmx" />
     <span>Portfolio</span>
   </a>
