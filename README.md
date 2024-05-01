@@ -10,7 +10,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### A propósito, aqui estão algumas das minhas estatísticas
+### A propósito, aqui estan algunas de mis estadísticas
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=franpa13&show_icons=true&theme=tokyonight" width="45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=franpa13&theme=tokyonight" width="45%"/>
@@ -21,7 +21,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-#### Linguagens e Ferramentas
+#### lenguages y Herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
