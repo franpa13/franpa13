@@ -3,7 +3,7 @@
 
 ### Sobre mi :
 
-- 🏢 Actualmente cursando una pasantia en Destored como frontend developer;
+- 🏢 Apasionado buscando experiencias como frontend developer;
 - 🎓 Estudiante de Analista Programador Universitario en [Facultad de ingenieria(UNJU);]
 - 💻 Desarrollador Web;
 - 👨🏽‍💻 Actualmente enfocado en mejorar y fortalecer mis conocimientos (tanto en front como back)
